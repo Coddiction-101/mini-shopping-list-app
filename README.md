@@ -32,7 +32,7 @@ This project is a beginner-friendly implementation of a shopping list. Users can
 
 ## Contribution
 
-Feel free to fork the project and submit pull requests. If you find any issues or want to add new features, please open an issue or submit a pull request.
+You can fix the project and submit pull requests. If you find any issues or want to add new features, please open an issue or submit a pull request.
 
 ---
 
