@@ -23,7 +23,7 @@ This project is a beginner-friendly implementation of a shopping list. Users can
 
 ## Contribution
 
-You can fix the project and submit pull requests. If you encounter any issues or would like to add new features, please open an issue or submit a pull request.
+You can fix the project and submit pull requests. If you encounter any issues or would like to add new features, please open an issue or submit a pull request. Thank You.
 
 ---
 
